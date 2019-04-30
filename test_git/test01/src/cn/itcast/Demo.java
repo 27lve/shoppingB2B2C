@@ -7,4 +7,10 @@ public class Demo {
         System.out.println("nihao");
         System.out.println("nihao");
     }
+
+    public static void test(){
+        for (int i = 0; i < 12; i++) {
+            System.out.println(i);
+        }
+    }
 }
