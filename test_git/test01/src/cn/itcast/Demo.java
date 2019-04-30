@@ -6,6 +6,7 @@ public class Demo {
         System.out.println("nihao");
         System.out.println("nihao");
         System.out.println("nihao");
+        //这是一个git测试
     }
 
     public static void test(){
